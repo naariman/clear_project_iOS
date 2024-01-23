@@ -1,2 +1,3 @@
-# clear_project_iOS
-support not UTF-8
+# Clear your project with ruby script
+
+1) Avoids invalid byte sequence in UTF-8 (ArgumentError)
